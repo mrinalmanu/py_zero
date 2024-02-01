@@ -1,0 +1,7 @@
+This is a text file.
+
+>this is the line i wanted
+
+!Exclude this line
+
+2023131230123message22312313another_messageappended text
