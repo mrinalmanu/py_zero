@@ -1,0 +1,293 @@
+Variable:Description:Option:Group:Composite:Tag
+LE3.003:What information can be obtained from your genetic material?:Ancestry:1:No:HR
+LE3.004:What information can be obtained from your genetic material?:Health:1:No:HR
+LE3.005:What information can be obtained from your genetic material?:Potential to succeed in different domains aka for example sports:1:No:HR
+LE3.006:What information can be obtained from your genetic material?:Personal traits aka for example extroversion:1:No:HR
+LE3.007:What information can be obtained from your genetic material?:I do not know:1:No:HR
+LE3.008:What information can be obtained from your genetic material?:Other:1:No:HR
+LE3.009:What information can be obtained from your genetic material?:Other as Text:1:Text:HR
+LE3.025:Can using genetic information affect human rights?:Yes no dontknow:2:Yes:HR
+LE3.026:How relevant is genetic information to the following personal rights? :Right to security including privacy:3:No:HR
+LE3.027:How relevant is genetic information to the following personal rights? :Right to health and medical care:3:No:HR
+LE3.028:How relevant is genetic information to the following personal rights? :Equal access to education:3:No:HR
+LE3.029:How relevant is genetic information to the following personal rights? :Right to work:3:No:HR
+LE3.030:How relevant is genetic information to the following personal rights? :Right to private property:3:No:HR
+LE3.031:How relevant is genetic information to the following personal rights? :Right to a fair trial:3:No:HR
+LE3.032:How relevant is genetic information to the following personal rights? :Right to move freely choose a place of stay or residence:3:No:HR
+LE3.033:How relevant is genetic information to the following personal rights? :Right to marriage:3:No:HR
+LE3.034:Do you think you own your genetic material?:Yes no dontknow:4:Yes:HR
+LE3.035:Do you think you own the data extracted from your genetic material?:Yes no dontknow:5:Yes:HR
+LE3.036:Who do you think owns your genetic material and or or genetic data?:I do:6:No:HR
+LE3.037:Who do you think owns your genetic material and or or genetic data?:The State:6:No:HR
+LE3.038:Who do you think owns your genetic material and or or genetic data?:Commercial organisations:6:No:HR
+LE3.039:Who do you think owns your genetic material and or or genetic data?:Medical facilities:6:No:HR
+LE3.040:Who do you think owns your genetic material and or or genetic data?:Research organisations:6:No:HR
+LE3.041:Who do you think owns your genetic material and or or genetic data?:Do not know:6:No:HR
+LE3.042:Who do you think owns your genetic material and or or genetic data?:Other:6:No:HR
+LE3.043:Who do you think owns your genetic material and or or genetic data?:Other as Text:6:Text:HR
+LE3.044:Do you think people should have the right to decide what is done with their own genetic material?:Yes no dontknow:7:Yes:HR
+LE3.045:Please indicate whether the following endeavours have positive negative or no impact on society:Disease prevention and cure:8:Special:HR
+LE3.046:Please indicate whether the following endeavours have positive negative or no impact on society:Improving fairness in criminal trials:8:Special:HR
+LE3.047:Please indicate whether the following endeavours have positive negative or no impact on society:Economic growth:8:Special:HR
+LE3.048:Please indicate whether the following endeavours have positive negative or no impact on society:New medical technologies:8:Special:HR
+LE3.049:Please indicate whether the following endeavours have positive negative or no impact on society:Changing the structure of society:8:Special:HR
+LE3.050:Please indicate whether the following endeavours have positive negative or no impact on society:New agricultural methods and products:8:Special:HR
+LE3.051:Please indicate whether the following endeavours have positive negative or no impact on society:Reducing food scarcity:8:Special:HR
+LE3.052:Please indicate whether the following endeavours have positive negative or no impact on society:Designer babies:8:Special:HR
+LE3.053:Please indicate whether the following endeavours have positive negative or no impact on society:Reduction in population variation:8:Special:HR
+LE3.054:Please indicate whether the following endeavours have positive negative or no impact on society:Developing biological weapons:8:Special:HR
+LE3.055:Please indicate whether the following endeavours have positive negative or no impact on society:Selection and enhancement of military personnel:8:Special:HR
+LE3.056:Please indicate whether the following endeavours have positive negative or no impact on society:Targeted commercial advertising:8:Special:HR
+LE3.057:Please indicate whether the following endeavours have positive negative or no impact on society:Targeted political campaigns:8:Special:HR
+LE3.058:Please indicate whether the following endeavours have positive negative or no impact on society:Crime prevention:8:Special:HR
+LE3.059:Please indicate whether the following endeavours have positive negative or no impact on society:Increased Longevity:8:Special:HR
+LE3.060:Please indicate whether the following endeavours have positive negative or no impact on society:Altering own traits aka biohacking:8:Special:HR
+LE3.061:Please indicate whether the following endeavours have positive negative or no impact on society:Personalised education:8:Special:HR
+LE3.062:Please indicate whether the following endeavours have positive negative or no impact on society:Streamed or stratified education:8:Special:HR
+LE3.063:Please indicate whether the following endeavours have positive negative or no impact on society:Testing for hiring in employment:8:Special:HR
+LE3.064:Please indicate whether the following endeavours have positive negative or no impact on society:Other:8:Special:HR
+LE3.065:Please indicate whether the following endeavours have positive negative or no impact on society:Other as Text:8:Text:HR
+LE3.066:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Disease prevention and cure:9:Special:HR
+LE3.067:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Improving fairness in criminal trials:9:Special:HR
+LE3.068:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Economic growth:9:Special:HR
+LE3.069:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :New medical technologies:9:Special:HR
+LE3.070:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Changing the structure of society:9:Special:HR
+LE3.071:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :New agricultural methods and products:9:Special:HR
+LE3.072:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Reducing food scarcity:9:Special:HR
+LE3.073:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Designer babies:9:Special:HR
+LE3.074:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Reduction in population variation:9:Special:HR
+LE3.075:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Developing biological weapons:9:Special:HR
+LE3.076:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Selection and enhancement of military personnel:9:Special:HR
+LE3.077:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Targeted commercial advertising:9:Special:HR
+LE3.078:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Targeted political campaigns:9:Special:HR
+LE3.079:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Crime prevention:9:Special:HR
+LE3.080:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Increased Longevity:9:Special:HR
+LE3.081:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Altering own traits aka biohacking:9:Special:HR
+LE3.082:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Personalised education:9:Special:HR
+LE3.083:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Streamed or stratified education:9:Special:HR
+LE3.084:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Testing for hiring in employment:9:Special:HR
+LE3.085:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Other:9:Special:HR
+LE3.086:Genetic science can contribute to the following social changes. Indicate whether you consider these endeavours positive neutral or negative for society :Other as Text:9:Text:HR
+LE3.089:In your opinion the current use of genetic data:Increases the risk of discrimination aka 1 Reduces the risk of discrimination aka 2 Makes no difference to the risk of discrimination aka 3 Both increases and decreases the risk of discrimination depending on how genetics data are regulated aka 4 Do not know aka 5:10:Yes:HR
+LE3.090:What is the relationship between the benefits and risks of the current use of genetic advances:Benefits outweigh the risks. aka 1 Risk outweighs the benefits. aka 2 Risks and benefits balance eachasother out. aka 3 Do not know aka 4:11:Yes:HR
+LE3.091:Obtaining someone s genetic material must be:" Always voluntary aka 1LE3.091 Compulsory but under certain circumstances aka 2 Do not know aka 3""":12:Yes:HR
+LE3.092:Populationaswide compulsory genetic testing should be done for the following purposes aka Several options can be chosen:Ensuring national security:13:No:HR
+LE3.093:Populationaswide compulsory genetic testing should be done for the following purposes aka Several options can be chosen:Crime prevention:13:No:HR
+LE3.094:Populationaswide compulsory genetic testing should be done for the following purposes aka Several options can be chosen:Scientific and technological progress:13:No:HR
+LE3.095:Populationaswide compulsory genetic testing should be done for the following purposes aka Several options can be chosen:Commercial benefit:13:No:HR
+LE3.096:Populationaswide compulsory genetic testing should be done for the following purposes aka Several options can be chosen:Healthcare development:13:No:HR
+LE3.097:Populationaswide compulsory genetic testing should be done for the following purposes aka Several options can be chosen:Should not be done:13:No:HR
+LE3.098:Populationaswide compulsory genetic testing should be done for the following purposes aka Several options can be chosen:Do no know:13:No:HR
+LE3.099:Populationaswide compulsory genetic testing should be done for the following purposes aka Several options can be chosen:Other:13:No:HR
+LE3.100:Populationaswide compulsory genetic testing should be done for the following purposes aka Several options can be chosen:Other as Text:13:Text:HR
+LE3.109:Is there an ethics committee in the organisation where you work or study?:yes no na dontknow:14:Yes:HR
+LE3.110:Current legal and ethical regulation of genetic data is:suff insuff dontknow:15:Yes:HR
+LE3.111:What aspects of the use of genetic data should be regulated by law aka Several options can be chosen?:Tests:16:No:HR
+LE3.112:What aspects of the use of genetic data should be regulated by law aka Several options can be chosen?:Storage:16:No:HR
+LE3.113:What aspects of the use of genetic data should be regulated by law aka Several options can be chosen?:Analysis:16:No:HR
+LE3.114:What aspects of the use of genetic data should be regulated by law aka Several options can be chosen?:Sharing:16:No:HR
+LE3.115:What aspects of the use of genetic data should be regulated by law aka Several options can be chosen?:Transferring across borders:16:No:HR
+LE3.116:What aspects of the use of genetic data should be regulated by law aka Several options can be chosen?:None of the above:16:No:HR
+LE3.117:What aspects of the use of genetic data should be regulated by law aka Several options can be chosen?:Do not know:16:No:HR
+LE3.118:What aspects of the use of genetic data should be regulated by law aka Several options can be chosen?:Other:16:No:HR
+LE3.119:What aspects of the use of genetic data should be regulated by law aka Several options can be chosen?:Other as Text:16:Text:HR
+LE3.120:What internal regulation does your workplace employ for misuses of genetic data by employees aka Several options can be chosen:Disciplinary:17:No:HR
+LE3.121:What internal regulation does your workplace employ for misuses of genetic data by employees aka Several options can be chosen:Administrative aka dismissal:17:No:HR
+LE3.122:What internal regulation does your workplace employ for misuses of genetic data by employees aka Several options can be chosen:Financial:17:No:HR
+LE3.123:What internal regulation does your workplace employ for misuses of genetic data by employees aka Several options can be chosen:None:17:No:HR
+LE3.124:What internal regulation does your workplace employ for misuses of genetic data by employees aka Several options can be chosen:Other:17:No:HR
+LE3.125:What internal regulation does your workplace employ for misuses of genetic data by employees aka Several options can be chosen:Do not know:17:No:HR
+LE3.126:In your country of residence genetic data breaches are regulated through aka Several options can be chosen:Fine aka financial penalty:18:No:HR
+LE3.127:In your country of residence genetic data breaches are regulated through aka Several options can be chosen:Requirement to pay compensation:18:No:HR
+LE3.128:In your country of residence genetic data breaches are regulated through aka Several options can be chosen:Criminal sentence:18:No:HR
+LE3.129:In your country of residence genetic data breaches are regulated through aka Several options can be chosen:I do not know:18:No:HR
+LE3.130:In your country of residence genetic data breaches are regulated through aka Several options can be chosen:None:18:No:HR
+LE3.131:In your country of residence genetic data breaches are regulated through aka Several options can be chosen:Other:18:No:HR
+LE3.132:In your country of residence genetic data breaches are regulated through aka Several options can be chosen:Other as Text:18:Text:HR
+LE3.199:Genetics experts must actively contribute to:Dissemination of genetic knowledge to the general public:19:No:HR
+LE3.200:Genetics experts must actively contribute to:"""Policymaking  Contributing to working groups concerning the regulation of genetic data""":19:No:HR
+LE3.201:Genetics experts must actively contribute to:Revising and updating ethical guidelines concerning genetic research and use of genetic data:19:No:HR
+LE2.066:Indicate the area of genetics you primarily work in and how long have you been in this role?:General Research aka 1 Agronomist aka 2 Counselling aka 3 Law aka 4 Medical aka 5 Behavioural aka 6 Educational aka 7 Other aka 8:20:Yes:HR
+LE2.067:Indicate the area of genetics you primarily work in and how long have you been in this role?:Other as Text:20:Text:HR
+LE3.133:What should the liability be for genetic data misuse aka Several options can be chosen?:Fine:21:No:HR
+LE3.134:What should the liability be for genetic data misuse aka Several options can be chosen?:Requirement to pay compensation:21:No:HR
+LE3.135:What should the liability be for genetic data misuse aka Several options can be chosen?:Imprisonment:21:No:HR
+LE3.136:What should the liability be for genetic data misuse aka Several options can be chosen?:Other:21:No:HR
+LE3.137:What should the liability be for genetic data misuse aka Several options can be chosen?:None:21:No:HR
+LE3.138:What should the liability be for genetic data misuse aka Several options can be chosen?:Do not know:21:No:HR
+LE5.015:People differ in the amount of DNA they share. How much of this differing DNA do siblings usually share?:Percentages 4 options:22:Yes:GK
+LE3.087:In most instances, and assuming two parents will be involved in raising a child, who should decide on sequencing a child’s genome at birth?:One parentorlegal guardian is sufficient aka 1 Two parents aka or legal guardians would need to agree aka 2 Medical facilities aka 3 The State aka 4 Should be prohibited until the child has legal capacity to decide aka 5 Do not know aka 6 Other aka 7:23:Yes:GR
+LE3.088:In most instances, and assuming two parents will be involved in raising a child, who should decide on sequencing a child’s genome at birth?:Other as Text:23:Text:GR
+LE3.101:Would you be interested in finding out about genetic information:Future spouse or partner:24:No:GR
+LE3.102:Would you be interested in finding out about genetic information:Spouse or partner:24:No:GR
+LE3.103:Would you be interested in finding out about genetic information:Children:24:No:GR
+LE3.104:Would you be interested in finding out about genetic information:Siblings:24:No:GR
+LE3.105:Would you be interested in finding out about genetic information:Other relatives:24:No:GR
+LE3.106:Would you be interested in finding out about genetic information:Friends:24:No:GR
+LE3.107:Would you be interested in finding out about genetic information:Other:24:No:GR
+LE3.108:Would you be interested in finding out about genetic information:Other as Text:24:Text:GR
+LE3.141:Genetic data of our first degree blood relatives can be used to identify us or to make predictions about our behaviour and traits. Therefore, we can be affected by our relatives’ decisions about the use of genetic data. Should there be a law regulating how a person protects aka stores, shares etc. their own genetic data?:yes no dontknow:25:Yes:GR
+iDcocnern01:What concerns do participants have in relation to genetic testing:Do not know who will have access to that information:26:No:GR
+iDcocnern02:What concerns do participants have in relation to genetic testing:Do not know whether the data will be stored securely:26:No:GR
+iDcocnern03:What concerns do participants have in relation to genetic testing:I would rather not know of any potential debilitating diseases that I may develop in the future:26:No:GR
+iDcocnern04:What concerns do participants have in relation to genetic testing:I am not interested:26:No:GR
+iDcocnern05:What concerns do participants have in relation to genetic testing:I am worried that I might find out something about myself I would rather not know:26:No:GR
+iDcocnern06:What concerns do participants have in relation to genetic testing:I would not want to be labelled as having any deficiency:26:No:GR
+iDcocnern07:What concerns do participants have in relation to genetic testing:I am worried some information about my physical or mental health could be used against me for example employment; legal matters; obtaining insurance:26:No:GR
+iDcocnern08:What concerns do participants have in relation to genetic testing:I am concerned my data will be used for other purposes without my knowledge:26:No:GR
+LE2.122:What concerns do participants have in relation to genetic testing:Do not know who will have access to that information:27:No:GR
+LE2.123:What concerns do participants have in relation to genetic testing:Do not know whether the data will be stored securely:27:No:GR
+LE2.124:What concerns do participants have in relation to genetic testing:I would rather not know of any potential debilitating diseases that I may develop in the future:27:No:GR
+LE2.125:What concerns do participants have in relation to genetic testing:I am not interested:27:No:GR
+LE2.126:What concerns do participants have in relation to genetic testing:I am worried that I might find out something about myself I would rather not know:27:No:GR
+LE2.127:What concerns do participants have in relation to genetic testing:I would not want to be labelled as having any deficiency:27:No:GR
+LE2.128:What concerns do participants have in relation to genetic testing:I am worried some information about my physical or mental health could be used against me for example employment; legal matters; obtaining insurance:27:No:GR
+LE2.129:What concerns do participants have in relation to genetic testing:I am concerned my data will be used for other purposes without my knowledge:27:No:GR
+LE2.130:What concerns do participants have in relation to genetic testing:Other:27:No:GR
+LE2.131:What concerns do participants have in relation to genetic testing:Other as Text:27:Text:GR
+iDconcernTOT:Summed concerns scores:total:28:No:GR
+LE2.003:Have you ever had genetic testing and why?:1 Medical testing - Self-initiated:29:No:GR
+LE2.004:Have you ever had genetic testing and why?:2 Medical testing - Recommended by doctor:29:No:GR
+LE2.005:Have you ever had genetic testing and why?:3 Medical testing - Compulsory by a court or law enforcement:29:No:GR
+LE2.006:Have you ever had genetic testing and why?:4 Paternity testing - Self-initiated:29:No:GR
+LE2.007:Have you ever had genetic testing and why?:5 Paternity testing - Recommended by doctor:29:No:GR
+LE2.008:Have you ever had genetic testing and why?:6 Paternity testing - Compulsory by a court or law enforcement:29:No:GR
+LE2.009:Have you ever had genetic testing and why?:7 Ancestry testing - Self-initiated:29:No:GR
+LE2.010:Have you ever had genetic testing and why?:8 Ancestry testing - Recommended by doctor:29:No:GR
+LE2.011:Have you ever had genetic testing and why?:9 Ancestry testing - Compulsory by a court or law enforcement:29:No:GR
+LE2.012:Have you ever had genetic testing and why?:10 General interest - Self-initiated:29:No:GR
+LE2.013:Have you ever had genetic testing and why?:11 General interest - Recommended by doctor:29:No:GR
+LE2.014:Have you ever had genetic testing and why?:12 General interest - Compulsory by a court or law enforcement:29:No:GR
+LE2.015:Have you ever had genetic testing and why?:13 Health and diet - Self-initiated:29:No:GR
+LE2.016:Have you ever had genetic testing and why?:14 Health and diet - Recommended by doctor:29:No:GR
+LE2.017:Have you ever had genetic testing and why?:15 Health and diet - Compulsory by a court or law enforcement:29:No:GR
+LE2.018:Have you ever had genetic testing and why?:16 Research project - Self-initiated:29:No:GR
+LE2.019:Have you ever had genetic testing and why?:17 Research project - Recommended by doctor:29:No:GR
+LE2.020:Have you ever had genetic testing and why?:18 Research project - Compulsory by a court or law enforcement:29:No:GR
+LE2.021:Have you ever had genetic testing and why?:19 Other - Self-initiated:29:No:GR
+LE2.022:Have you ever had genetic testing and why?:20 Other - Recommended by doctor:29:No:GR
+LE2.023:Have you ever had genetic testing and why?:21 Other - Compulsory by a court or law enforcement:29:No:GR
+LE2.024:Have you ever had genetic testing and why?:22 Other:29:Text:GR
+LE2.25:If you have used DTC genetic testing, which company did you use?:23andMe:30:No:GR
+LE2.26:If you have used DTC genetic testing, which company did you use?:23mofang:30:No:GR
+LE2.27:If you have used DTC genetic testing, which company did you use?:24 genetics:30:No:GR
+LE2.28:If you have used DTC genetic testing, which company did you use?:African Ancestry:30:No:GR
+LE2.29:If you have used DTC genetic testing, which company did you use?:AncestryDNA:30:No:GR
+LE2.30:If you have used DTC genetic testing, which company did you use?:Atlas:30:No:GR
+LE2.31:If you have used DTC genetic testing, which company did you use?:Centrillion Biosciences:30:No:GR
+LE2.32:If you have used DTC genetic testing, which company did you use?:Dante Labs:30:No:GR
+LE2.33:If you have used DTC genetic testing, which company did you use?:DNA Ancestry and Family Origin:30:No:GR
+LE2.34:If you have used DTC genetic testing, which company did you use?:DNA Worldwide:30:No:GR
+LE2.35:If you have used DTC genetic testing, which company did you use?:Family Tree DNA:30:No:GR
+LE2.36:If you have used DTC genetic testing, which company did you use?:Full Genomes Corporation:30:No:GR
+LE2.37:If you have used DTC genetic testing, which company did you use?:Gene by Gene:30:No:GR
+LE2.38:If you have used DTC genetic testing, which company did you use?:Genebase:30:No:GR
+LE2.39:If you have used DTC genetic testing, which company did you use?:Genera:30:No:GR
+LE2.40:If you have used DTC genetic testing, which company did you use?:GenoTek:30:No:GR
+LE2.41:If you have used DTC genetic testing, which company did you use?:Genographic Project:30:No:GR
+LE2.42:If you have used DTC genetic testing, which company did you use?:Genos Research Inc:30:No:GR
+LE2.43:If you have used DTC genetic testing, which company did you use?:Helix:30:No:GR
+LE2.44:If you have used DTC genetic testing, which company did you use?:iGENEA:30:No:GR
+LE2.45:If you have used DTC genetic testing, which company did you use?:Living DNA:30:No:GR
+LE2.46:If you have used DTC genetic testing, which company did you use?:MyHeritage:30:No:GR
+LE2.47:If you have used DTC genetic testing, which company did you use?:Oxford Ancestors:30:No:GR
+LE2.48:If you have used DTC genetic testing, which company did you use?:Roots for Real:30:No:GR
+LE2.49:If you have used DTC genetic testing, which company did you use?:Sano Genetics:30:No:GR
+LE2.50:If you have used DTC genetic testing, which company did you use?:Sorenson Genomics:30:No:GR
+LE2.51:If you have used DTC genetic testing, which company did you use?:TribeCode:30:No:GR
+LE2.52:If you have used DTC genetic testing, which company did you use?:Veritas Genetics:30:No:GR
+LE2.53:If you have used DTC genetic testing, which company did you use?:Veritas Intercontinental:30:No:GR
+LE2.54:If you have used DTC genetic testing, which company did you use?:WeGene:30:No:GR
+LE2.55:If you have used DTC genetic testing, which company did you use?:YSEQ:30:No:GR
+LE2.56:If you have used DTC genetic testing, which company did you use?:Yoogene:30:No:GR
+LE2.57:If you have used DTC genetic testing, which company did you use?:Other:30:No:GR
+LE2.58:If you have used DTC genetic testing, which company did you use?:Other as Text:30:Text:GR
+LE2.001:Gender:Male_Female_non_binary_other:60:Yes:General
+LE2.002:Age:Continuous:32:Continuous:General
+LE2.059:Education:Pre-GCSE school leavers certificates 1 aka GCSE or equivalent school leavers certificates 2 aka  aka A-level or equivalent 3 aka  aka Undergraduate 4 aka  aka Master's degree 5:33:Yes:General
+LE2.060:University student:Yes_No:34:Yes:General
+LE2.061:Field of education:Art and Design 1 aka  aka Ancient History and Archaeology 2 aka  aka Biology 3 aka  aka Chemistry 4 aka  aka Classics 5 aka  aka Communication, Advertising and Marketing 6 aka  aka Economics and Business Studies 7 aka  aka Education 8 aka  aka Electronics, Engineering, Computing and ICT 9 aka  aka English 10 aka  aka Environmental Sciences 11 aka  aka Genetics 12 aka  aka Geology 13 aka  aka Geography 14 aka  aka Government and Politics 15 aka  aka Health and Social Care 16 aka  aka History 17 aka  aka Languages 18 aka  aka Law 19 aka  aka Mathematics 20 aka  aka Media Studies 21 aka  aka Medicine 22 aka  aka Music 23 aka  aka Performance and Theatrical Arts 24 aka  aka Philosophy, Religion and Ethics 25 aka  aka Physics 26 aka  aka Psychology 27 aka  aka Sociology 28 aka  aka Sports and Exercise Science 29 aka  aka Statistics and research methods 30 aka  aka Travel and Tourism 31 aka  aka Other 32:35:Yes:General
+LE2.062:Year of education:1 1 aka  aka 2 2 aka  aka 3 3 aka  aka 4 4 aka  aka 5 5 aka  aka 6+ 6:36:Yes:General
+LE2.064:Field of work:Not applicable 1 aka  aka Charity sector 2 aka  aka Construction and maintenance 3 aka  aka Education 4 aka  aka Engineering, Computing and ICT 5 aka  aka Farming and agricultural 6 aka  aka Finance 7 aka  aka Genetics 17 aka  aka Governmental employee 8 aka  aka Housing and accommodation 9 aka  aka Law 10 aka  aka Management 11 aka  aka Medicine 12 aka  aka Retired 13 aka  aka Sales and office work 14 aka  aka Science and Research aka 15 Other aka 16:37:Yes:General
+LE2.063:Title of program:Mixed:38:Text:General
+LE2.065:Full time or part time:Various:39:Yes:General
+LE2.003:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Medical testing  Selfinitiated:40:No:General
+LE2.004:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Medical testing  Recommended as in by doctor:40:No:General
+LE2.005:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Medical testing  Compulsory as in by a court or law enforcement:40:No:General
+LE2.006:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Paternity testing  Selfinitiated:40:No:General
+LE2.007:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Paternity testing  Recommended as in by doctor:40:No:General
+LE2.008:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Paternity testing  Compulsory as in by a court or law enforcement:40:No:General
+LE2.009:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Ancestry testing  Selfinitiated:40:No:General
+LE2.010:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Ancestry testing  Recommended as in by doctor:40:No:General
+LE2.011:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Ancestry testing  Compulsory as in by a court or law enforcement:40:No:General
+LE2.012:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:General interest  Selfinitiated:40:No:General
+LE2.013:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:General interest  Recommended as in by doctor:40:No:General
+LE2.014:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:General interest  Compulsory as in by a court or law enforcement:40:No:General
+LE2.015:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Health and diet  Selfinitiated:40:No:General
+LE2.016:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Health and diet  Recommended as in by doctor:40:No:General
+LE2.017:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Health and diet  Compulsory as in by a court or law enforcement:40:No:General
+LE2.018:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:As part of a research project  Selfinitiated:40:No:General
+LE2.019:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:As part of a research project  Recommended as in by doctor:40:No:General
+LE2.020:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:As part of a research project  Compulsory as in by a court or law enforcement:40:No:General
+LE2.021:Have you had genetic testing for any of the following reasons, and was it voluntary or compulsory:Other  Selfinitiated:40:No:General
+LE2.069:Select from the list below those options that best describe your job.:Lawyer:41:No:General
+LE2.070:Select from the list below those options that best describe your job.:University Lecturer or Researcher:41:No:General
+LE2.071:Select from the list below those options that best describe your job.:Legal assistant:41:No:General
+LE2.072:Select from the list below those options that best describe your job.:Judge:41:No:General
+LE2.073:Select from the list below those options that best describe your job.:Prosecutor:41:No:General
+LE2.074:Select from the list below those options that best describe your job.:Defence lawyer:41:No:General
+LE2.075:Select from the list below those options that best describe your job.:Detective:41:No:General
+LE2.076:Select from the list below those options that best describe your job.:Other:41:No:General
+LE2.077:Select from the list below those options that best describe your job.:Other - Text:41:No:General
+LE2.078:How many years have you been in this role?:Continuous:42:Continuous:General
+LE2.082:Provide the area of your specialism:Accident and Emergency:43:No:General
+LE2.083:Provide the area of your specialism:Anaesthesia:43:No:General
+LE2.084:Provide the area of your specialism:Audiology:43:No:General
+LE2.085:Provide the area of your specialism:Cardiovascular:43:No:General
+LE2.086:Provide the area of your specialism:Chronic pain:43:No:General
+LE2.087:Provide the area of your specialism:Dentistry:43:No:General
+LE2.088:Provide the area of your specialism:Dermatology:43:No:General
+LE2.089:Provide the area of your specialism:Endocrinology:43:No:General
+LE2.090:Provide the area of your specialism:Eye care:43:No:General
+LE2.091:Provide the area of your specialism:General Practice:43:No:General
+LE2.092:Provide the area of your specialism:Geriatric:43:No:General
+LE2.093:Provide the area of your specialism:Gynaecology:43:No:General
+LE2.094:Provide the area of your specialism:Maternity:43:No:General
+LE2.095:Provide the area of your specialism:Neonatal:43:No:General
+LE2.096:Provide the area of your specialism:Neurology:43:No:General
+LE2.097:Provide the area of your specialism:Oncology:43:No:General
+LE2.098:Provide the area of your specialism:Paediatrics:43:No:General
+LE2.099:Provide the area of your specialism:Plastic surgery:43:No:General
+LE2.100:Provide the area of your specialism:Psychiatry and mental health:43:No:General
+LE2.101:Provide the area of your specialism:Renal:43:No:General
+LE2.102:Provide the area of your specialism:Respiratory medicine:43:No:General
+LE2.103:Provide the area of your specialism:Rheumatology:43:No:General
+LE2.104:Provide the area of your specialism:Trauma and orthopaedics:43:No:General
+LE2.105:Provide the area of your specialism:Urology:43:No:General
+LE2.106:Provide the area of your specialism:Other:43:No:General
+LE2.107:Provide the area of your specialism:Other as Text:43:Text:General
+LE2.110:Select the area you work in:Primary school 1 aka  aka Secondary school 2 aka  aka University 3:44:Yes:General
+LE2.109:Select the area you work in:Text:45:Text:General
+LE2.111:How long have you been in this role:Less than 1 year  aka 1 aka   aka  aka 1 to 4 years  aka 2 aka   aka  aka 5 to 10 years  aka 3 aka   aka  aka 11 to 20 years  aka 4 aka   aka  aka 21 or more years  aka 5 aka :46:Yes:General
+LE2.112:Do you have any particular responsibility for students with special educational needs::47:Yes:General
+LE2.113:Select your role:Teacher 1 aka  aka Head teacher 2 aka  aka Teaching assistant 3 aka  aka Office and admin 4:48:Yes:General
+LE2.114:What subjects do you teach?:English 1 aka  aka Maths 2 aka  aka Science 3 aka  aka Languages 4 aka  aka History 5 aka  aka Geography 6 aka  aka Physical Education 7 aka  aka Art and Design 8 aka  aka Music 9 aka  aka ICT 10 aka  aka Drama 11 aka  aka Other 12:49:Yes:General
+LE2.115:What subject area do you teach?:Text:50:Text:General
+LE2.116:Select your role:Academic as in lecturer 1 aka Non-academic as in admistration 2:51:Yes:General
+LE2.117:Select your subject area:Art and Design 1 aka  aka Ancient History and Archaeology 2 aka  aka Biology 3 aka  aka Chemistry 4 aka  aka Classics 5 aka  aka Communication, Advertising and Marketing 6 aka  aka Economics and Business Studies 7 aka  aka Education 8 aka  aka Electronics, Engineering, Computing and ICT 9 aka  aka English 10 aka  aka Environmental Sciences 11 aka  aka Genetics 12 aka  aka Geology 13 aka  aka Geography 14 aka  aka Government and Politics 15 aka  aka Health and Social Care 16 aka  aka History 17 aka  aka Languages 18 aka  aka Law 19 aka  aka Mathematics 20 aka  aka Media Studies 21 aka  aka Medicine 22 aka  aka Music 23 aka  aka Performance and Theatrical Arts 24 aka  aka Philosophy, Religion and Ethics 25 aka  aka Physics 26 aka  aka Psychology 27 aka  aka Sociology 28 aka  aka Sports and Exercise Science 29 aka  aka Statistics and research methods 30 aka  aka Travel and Tourism 31 aka  aka Other 32:52:Yes:General
+LE2.118:Subject area :Text:53:Text:General
+LE2.119:Subject or research area:Text:54:Text:General
+LE2.120:In which country did you attend secondary school?:Country codes:55:Yes:General
+LE2.121:In which country do you currently live:Country codes:56:Yes:General
+LE2.132:Confidence in GK:Continuous:57:Continuous:General
+LE3.141:Should there be a law regulating how a person protects their own genetic data?:yes no dontknow:30:Yes:GR
+LE5.012:What is a genome?:1 aka A sex chromosome 2 aka Correct - The entire sequence of an individual’s DNA  3 aka All the genes in the DNA 4 aka Gene expression:58:Yes:GK
+LE5.017:On average, how much of their total DNA is the same in two people selected at random?:1 aka Less than 50 percent 2 aka 75 percent 3 aka 90 percent 4 Correct – More than 99 percent:59:Yes:GK
+LE5.013:Which of the following 4 letter groups represent the :1 aka GHPO 2 aka HTPR 3 aka Correct – GCTA 4 aka LFWE:60:Yes:GK
+LE5.018:Genetic contribution to the risk of developing Schizophernia comes from -:1 aka One gene 2 aka Correct – Many genes:61:Yes:GK
+LE5.024:The DNA sequence in two different cells, for example a neuron and a heart cell, of one person, is -:1 aka Entirely different 2 aka About 50 percent the same 3 aka More than 90 percent the same 4 aka Correct – One hundred percent identical:62:Yes:GK
+LE5.030:Some of the genes that relate to dyslexia also relate to ADHD -:1 aka Correct – True 2 aka False:63:Yes:GK
+LE5.031:If a report states ‘the heritability of insomnia is approximately 30 percent what would that mean?:1 aka If someone has insomnia this is approximately this is approximately thirty percent due to their genes 2 aka Approximately thirty percent of people will experience insomnia at some point in their lives 3 aka Correct – Genetic influences account for approximately thirty percent of differences between people in insomnia 4 aka There is an approximately 30 percent chance that someone will pass insomnia onto their children:64:Yes:GK
+LE3.199:Dissemination of genetic knowledge to the general public:1 – 5 strongly agree to disagree:65:Likert:GR
+LE3.200:Policymaking – Contributing to working groups concerning the regulation of genetic data:2 – 5 strongly agree to disagree:66:Likert:GR
+LE3.201:Revising and updating ethical guidelines concerning genetic research and use of genetic data:3 – 5 strongly agree to disagree:67:Likert:GR
