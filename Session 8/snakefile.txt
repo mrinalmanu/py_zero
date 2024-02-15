@@ -1,0 +1,50 @@
+from snakemake.utils import min_version
+min_version("2.3.0") 
+# actually you should use versions higher than 5.11, they have lint
+# lint helps a lot with debugging
+
+configfile: "config.json"
+
+# usually sankemake checks if the output already exists, to avoid
+# re-running the pipeline, this is why there is always an "all" rule
+
+SAMPLES = config['samples']
+        
+rule all:
+    """
+    Collect the main inputs and outputs of the workflow.
+    """
+    input:
+        "combined_instructions.txt"
+
+    
+rule touch_files:
+    """
+    Create a file.
+    """
+    output:
+        "{sample}.txt"
+    shell:
+        """
+        touch {output} && printf "Hello! {output} " >> {output}
+        """
+
+rule concat_files:
+    input:
+        files=expand("{sample}.txt", sample=SAMPLES),
+    output:
+        "combined_instructions.txt",
+    params:
+        cmd="cat",
+    shell:
+        """
+        {params.cmd} {input.files} >> {output}
+        """
+
+rule generate_rulegraph:
+    output:
+        "results/rulegraph.png",
+    shell:
+        """
+        snakemake --snakefile snakefile_mrsa.smk --config max_reads=0 --rulegraph | dot -Tpng > {output}
+        """
